@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Shintaro Tanaka</title>
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories on Shintaro Tanaka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>archives</title>
+      <link>https://example.com/categories/archives/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>memorandum</title>
+      <link>https://example.com/categories/memorandum/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/memorandum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>concerts</title>
+      <link>https://example.com/categories/concerts/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/concerts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>discography</title>
+      <link>https://example.com/categories/discography/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/discography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>https://example.com/categories/news/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/news/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

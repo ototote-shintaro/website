@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>discography on Shintaro Tanaka</title>
+    <link>https://example.com/categories/discography/</link>
+    <description>Recent content in discography on Shintaro Tanaka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/categories/discography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gathered Petals</title>
+      <link>https://example.com/post/gatherd_petals/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/gatherd_petals/</guid>
+      <description>“Gathered Petals” is my first piano solo album. I composed plain short pieces, which were compared to flower petals, instead of magnificent styles of maestros. Also I played a piano not like a confident virtuoso but as a naive child touching keyboards for the first time. Through these concept, I had been pursuing the music of origin, and the origin of music.
+All music composed and performed by Shintaro Tanaka Mixed and Mastered by Daisuke Fukuda (a.</description>
+    </item>
+    
+    <item>
+      <title>つきのふね / The Moon Boat Sails</title>
+      <link>https://example.com/post/moon_boat_sails/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/moon_boat_sails/</guid>
+      <description>都会の夜景を見下ろすよりも、静かに夜空を見上げていたい。 このアルバムの主題は、月や星といった手の届かない場所にあるもの。 In the nighttime, I’d rather look up the stars than look down over cities. The theme of this cd is things unreachable in our life such as the moon and stars. I always love those things far away.  林灰二（劇団「Oi-SCALE」主催）</description>
+    </item>
+    
+  </channel>
+</rss>
