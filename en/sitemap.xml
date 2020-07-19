@@ -3,18 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ototote.net/categories/archives/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ototote.net/post/20200510/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ototote.net/categories/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -63,13 +53,23 @@
   </url>
   
   <url>
+    <loc>https://ototote.net/categories/discography/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ototote.net/categories/news/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ototote.net/post/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ototote.net/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -115,6 +115,26 @@
                 hreflang="en"
                 href="https://ototote.net/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://ototote.net/post/fruhlingstraum/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ototote.net/post/20200719/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ototote.net/categories/archives/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ototote.net/post/20200510/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -238,11 +258,6 @@
   </url>
   
   <url>
-    <loc>https://ototote.net/categories/discography/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ototote.net/post/gatherd_petals/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -259,11 +274,6 @@
   
   <url>
     <loc>https://ototote.net/post/hatachi_2018/</loc>
-    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ototote.net/categories/news/</loc>
     <lastmod>2018-12-19T00:00:00+00:00</lastmod>
   </url>
   

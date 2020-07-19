@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Shintaro Tanaka</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ototote.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>discography</title>
+      <link>https://ototote.net/categories/discography/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ototote.net/categories/discography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>https://ototote.net/categories/news/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ototote.net/categories/news/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>archives</title>
@@ -35,24 +53,6 @@
       <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ototote.net/categories/concerts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>discography</title>
-      <link>https://ototote.net/categories/discography/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ototote.net/categories/discography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news</title>
-      <link>https://ototote.net/categories/news/</link>
-      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://ototote.net/categories/news/</guid>
       <description></description>
     </item>
     
