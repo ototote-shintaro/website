@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>news on Shintaro Tanaka</title>
-    <link>https://example.com/categories/news/</link>
+    <link>https://ototote.net/categories/news/</link>
     <description>Recent content in news on Shintaro Tanaka</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 19 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ototote.net/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>biotope 「ハタチ基金」チャリティーコンサート8年間の作品集リリースに寄せて</title>
-      <link>https://example.com/post/hatachi_2018/</link>
+      <link>https://ototote.net/post/hatachi_2018/</link>
       <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/hatachi_2018/</guid>
+      <guid>https://ototote.net/post/hatachi_2018/</guid>
       <description>作曲家・高柳寛樹が「ハタチ基金」チャリティーコンサートのために作曲した８年間８曲をフルオケ、フルバンドで音楽監督・田中慎太郎が編曲したCDアルバムです。2018年12月15日に発売。収益の一部は「ハタチ基金」の活動のためにアロワナエンターテイメントから寄付されます。
  高柳さんから「ハタチ基金」のために作曲した曲をアルバムにしたいと編曲のお話をいただいたのは去年の冬頃でした。それからおよそ1年かけて、じっくり作ったアルバムです。 https://arowanax.thebase.in/items/15734405?fbclid=IwAR2IsvMT2rXBy1c_6gxY2hdJVO2WWUqVsip_j9Iixv_eIrlCjccqU8FCZt8 CDはこちらからお買い求めいただけます。
 https://itunes.apple.com/jp/album/biotope/1444881366?l=jp iTunesでも配信しています。google playやAWA、apple musicでも視聴可能です。（ただ、できればフィジカルをお買い求めいただけると嬉しいです。笑）  先日のチャリティーコンサートも盛況のうちに終わり、すこしだけご挨拶のため登壇させていただきました。
@@ -25,37 +25,37 @@ https://itunes.apple.com/jp/album/biotope/1444881366?l=jp iTunesでも配信し�
     
     <item>
       <title>News 2017-04-28</title>
-      <link>https://example.com/post/sum_20170428/</link>
+      <link>https://ototote.net/post/sum_20170428/</link>
       <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/sum_20170428/</guid>
+      <guid>https://ototote.net/post/sum_20170428/</guid>
       <description>今晩はいよいよ、サラヴァ東京でライブ。私は22:00から40分演奏します。金曜の宵、ぜひ遊びにいらしてください。</description>
     </item>
     
     <item>
       <title>checkie!</title>
-      <link>https://example.com/post/checkie/</link>
+      <link>https://ototote.net/post/checkie/</link>
       <pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/checkie/</guid>
+      <guid>https://ototote.net/post/checkie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CHORAL EXTENDED</title>
-      <link>https://example.com/post/choral_extended/</link>
+      <link>https://ototote.net/post/choral_extended/</link>
       <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/choral_extended/</guid>
+      <guid>https://ototote.net/post/choral_extended/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SUM!</title>
-      <link>https://example.com/post/sum/</link>
+      <link>https://ototote.net/post/sum/</link>
       <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/sum/</guid>
+      <guid>https://ototote.net/post/sum/</guid>
       <description></description>
     </item>
     

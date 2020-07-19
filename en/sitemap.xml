@@ -3,531 +3,531 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/categories/archives/</loc>
+    <loc>https://ototote.net/categories/archives/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/20200510/</loc>
+    <loc>https://ototote.net/post/20200510/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.com/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://example.com/pl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://example.com/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://example.com/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://example.com/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://example.com/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://example.com/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/</loc>
+    <loc>https://ototote.net/categories/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://ototote.net/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/"
+                href="https://ototote.net/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/"
+                href="https://ototote.net/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/"
+                href="https://ototote.net/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/"
+                href="https://ototote.net/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
+                href="https://ototote.net/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/"
+                href="https://ototote.net/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/"
+                href="https://ototote.net/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://ototote.net/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/categories/memorandum/</loc>
+    <loc>https://ototote.net/post/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ototote.net/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ototote.net/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://ototote.net/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://ototote.net/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://ototote.net/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://ototote.net/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://ototote.net/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://ototote.net/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://ototote.net/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ototote.net/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ototote.net/categories/memorandum/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/20200507/</loc>
+    <loc>https://ototote.net/post/20200507/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/concerts/</loc>
+    <loc>https://ototote.net/categories/concerts/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/tetooto_5/</loc>
+    <loc>https://ototote.net/post/tetooto_5/</loc>
     <lastmod>2020-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/202002/</loc>
+    <loc>https://ototote.net/post/202002/</loc>
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/20200119/</loc>
+    <loc>https://ototote.net/post/20200119/</loc>
     <lastmod>2020-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/20191231/</loc>
+    <loc>https://ototote.net/post/20191231/</loc>
     <lastmod>2019-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/tld_tnd/</loc>
+    <loc>https://ototote.net/post/tld_tnd/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/20191215/</loc>
+    <loc>https://ototote.net/post/20191215/</loc>
     <lastmod>2019-12-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/oct2019/</loc>
+    <loc>https://ototote.net/post/oct2019/</loc>
     <lastmod>2019-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/toilet/</loc>
+    <loc>https://ototote.net/post/toilet/</loc>
     <lastmod>2019-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/kangetsusai/</loc>
+    <loc>https://ototote.net/post/kangetsusai/</loc>
     <lastmod>2019-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/20190824/</loc>
+    <loc>https://ototote.net/post/20190824/</loc>
     <lastmod>2019-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/20190818/</loc>
+    <loc>https://ototote.net/post/20190818/</loc>
     <lastmod>2019-08-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/20181216_movie/</loc>
+    <loc>https://ototote.net/post/20181216_movie/</loc>
     <lastmod>2019-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/seitodou/</loc>
+    <loc>https://ototote.net/post/seitodou/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/memorandum20190517/</loc>
+    <loc>https://ototote.net/post/memorandum20190517/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/homebrewmusic/</loc>
+    <loc>https://ototote.net/post/homebrewmusic/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/parallel_archive/</loc>
+    <loc>https://ototote.net/post/parallel_archive/</loc>
     <lastmod>2019-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/thanks20190429/</loc>
+    <loc>https://ototote.net/post/thanks20190429/</loc>
     <lastmod>2019-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/parallel_music/</loc>
+    <loc>https://ototote.net/post/parallel_music/</loc>
     <lastmod>2019-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://ototote.net/about/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/concerts/</loc>
+    <loc>https://ototote.net/concerts/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/discography/</loc>
+    <loc>https://ototote.net/discography/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/discography/</loc>
+    <loc>https://ototote.net/categories/discography/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/gatherd_petals/</loc>
+    <loc>https://ototote.net/post/gatherd_petals/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tranquility/</loc>
+    <loc>https://ototote.net/tranquility/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/moon_boat_sails/</loc>
+    <loc>https://ototote.net/post/moon_boat_sails/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/hatachi_2018/</loc>
+    <loc>https://ototote.net/post/hatachi_2018/</loc>
     <lastmod>2018-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/news/</loc>
+    <loc>https://ototote.net/categories/news/</loc>
     <lastmod>2018-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/thanks20181219/</loc>
+    <loc>https://ototote.net/post/thanks20181219/</loc>
     <lastmod>2018-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/musica-universalis/</loc>
+    <loc>https://ototote.net/post/musica-universalis/</loc>
     <lastmod>2018-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/with/</loc>
+    <loc>https://ototote.net/post/with/</loc>
     <lastmod>2018-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/thanks20180613/</loc>
+    <loc>https://ototote.net/post/thanks20180613/</loc>
     <lastmod>2018-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/event_0613_2018/</loc>
+    <loc>https://ototote.net/post/event_0613_2018/</loc>
     <lastmod>2018-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/under_the_mat/</loc>
+    <loc>https://ototote.net/post/under_the_mat/</loc>
     <lastmod>2018-06-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/event_0428_2018/</loc>
+    <loc>https://ototote.net/post/event_0428_2018/</loc>
     <lastmod>2018-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/fruits/</loc>
+    <loc>https://ototote.net/post/fruits/</loc>
     <lastmod>2018-02-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/kotoba/</loc>
+    <loc>https://ototote.net/post/kotoba/</loc>
     <lastmod>2018-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/kedama/</loc>
+    <loc>https://ototote.net/post/kedama/</loc>
     <lastmod>2017-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/space_craft_children/</loc>
+    <loc>https://ototote.net/post/space_craft_children/</loc>
     <lastmod>2017-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/tranquility_sea_full/</loc>
+    <loc>https://ototote.net/post/tranquility_sea_full/</loc>
     <lastmod>2017-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/memorandum20170905/</loc>
+    <loc>https://ototote.net/post/memorandum20170905/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/recording_july2017/</loc>
+    <loc>https://ototote.net/post/recording_july2017/</loc>
     <lastmod>2017-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/memorandum20170730/</loc>
+    <loc>https://ototote.net/post/memorandum20170730/</loc>
     <lastmod>2017-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/saravah_20170428_2/</loc>
+    <loc>https://ototote.net/post/saravah_20170428_2/</loc>
     <lastmod>2017-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/saravah_20170428/</loc>
+    <loc>https://ototote.net/post/saravah_20170428/</loc>
     <lastmod>2017-06-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/tranquility_base_20170505/</loc>
+    <loc>https://ototote.net/post/tranquility_base_20170505/</loc>
     <lastmod>2017-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/20160924tranquillity_base/</loc>
+    <loc>https://ototote.net/post/20160924tranquillity_base/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/at_dawn/</loc>
+    <loc>https://ototote.net/post/at_dawn/</loc>
     <lastmod>2017-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/thanks20170428/</loc>
+    <loc>https://ototote.net/post/thanks20170428/</loc>
     <lastmod>2017-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/sum_20170428/</loc>
+    <loc>https://ototote.net/post/sum_20170428/</loc>
     <lastmod>2017-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/20170328_at_saravah_tokyo/</loc>
+    <loc>https://ototote.net/post/20170328_at_saravah_tokyo/</loc>
     <lastmod>2017-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/canary/</loc>
+    <loc>https://ototote.net/post/canary/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/tonight_or_never/</loc>
+    <loc>https://ototote.net/post/tonight_or_never/</loc>
     <lastmod>2017-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/tranquility_sea/</loc>
+    <loc>https://ototote.net/post/tranquility_sea/</loc>
     <lastmod>2017-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/petals_mv2/</loc>
+    <loc>https://ototote.net/post/petals_mv2/</loc>
     <lastmod>2017-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/petals_mv/</loc>
+    <loc>https://ototote.net/post/petals_mv/</loc>
     <lastmod>2017-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/illumination/</loc>
+    <loc>https://ototote.net/post/illumination/</loc>
     <lastmod>2017-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/sora_to_hikari/</loc>
+    <loc>https://ototote.net/post/sora_to_hikari/</loc>
     <lastmod>2017-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/checkie/</loc>
+    <loc>https://ototote.net/post/checkie/</loc>
     <lastmod>2016-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/choral_extended/</loc>
+    <loc>https://ototote.net/post/choral_extended/</loc>
     <lastmod>2016-11-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/thanks20160924/</loc>
+    <loc>https://ototote.net/post/thanks20160924/</loc>
     <lastmod>2016-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/tetooto_4/</loc>
+    <loc>https://ototote.net/post/tetooto_4/</loc>
     <lastmod>2016-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/tranquility_base_opening/</loc>
+    <loc>https://ototote.net/post/tranquility_base_opening/</loc>
     <lastmod>2016-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/thanks20160617/</loc>
+    <loc>https://ototote.net/post/thanks20160617/</loc>
     <lastmod>2016-06-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/upright_piano_music/</loc>
+    <loc>https://ototote.net/post/upright_piano_music/</loc>
     <lastmod>2016-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/from_afar/</loc>
+    <loc>https://ototote.net/post/from_afar/</loc>
     <lastmod>2016-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/tetooto_3/</loc>
+    <loc>https://ototote.net/post/tetooto_3/</loc>
     <lastmod>2016-05-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/sum/</loc>
+    <loc>https://ototote.net/post/sum/</loc>
     <lastmod>2016-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/danlan/</loc>
+    <loc>https://ototote.net/post/danlan/</loc>
     <lastmod>2016-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/from_afar_20160528/</loc>
+    <loc>https://ototote.net/post/from_afar_20160528/</loc>
     <lastmod>2015-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/post/petals_concert/</loc>
+    <loc>https://ototote.net/post/petals_concert/</loc>
     <lastmod>2015-06-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://ototote.net/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://ototote.net/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/tags/"
+                href="https://ototote.net/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/"
+                href="https://ototote.net/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/tags/"
+                href="https://ototote.net/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/"
+                href="https://ototote.net/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
+                href="https://ototote.net/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/tags/"
+                href="https://ototote.net/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/tags/"
+                href="https://ototote.net/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://ototote.net/tags/"
                 />
   </url>
   
