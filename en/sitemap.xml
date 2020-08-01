@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://ototote.net/categories/</loc>
-    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -53,23 +53,18 @@
   </url>
   
   <url>
-    <loc>https://ototote.net/categories/discography/</loc>
-    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ototote.net/categories/news/</loc>
-    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ototote.net/post/</loc>
-    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ototote.net/</loc>
-    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -115,6 +110,16 @@
                 hreflang="en"
                 href="https://ototote.net/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://ototote.net/post/20200801/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ototote.net/categories/discography/</loc>
+    <lastmod>2020-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
