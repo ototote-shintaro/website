@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Shintaro Tanaka</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ototote.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>memorandum</title>
+      <link>https://ototote.net/categories/memorandum/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ototote.net/categories/memorandum/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>news</title>
@@ -35,15 +44,6 @@
       <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ototote.net/categories/archives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>memorandum</title>
-      <link>https://ototote.net/categories/memorandum/</link>
-      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ototote.net/categories/memorandum/</guid>
       <description></description>
     </item>
     

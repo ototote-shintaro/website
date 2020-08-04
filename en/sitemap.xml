@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://ototote.net/categories/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -53,18 +53,18 @@
   </url>
   
   <url>
-    <loc>https://ototote.net/categories/news/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+    <loc>https://ototote.net/categories/memorandum/</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ototote.net/post/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ototote.net/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -113,6 +113,16 @@
   </url>
   
   <url>
+    <loc>https://ototote.net/post/20200803/</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ototote.net/categories/news/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ototote.net/post/20200801/</loc>
     <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -140,11 +150,6 @@
   <url>
     <loc>https://ototote.net/post/20200510/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ototote.net/categories/memorandum/</loc>
-    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
